@@ -4,7 +4,7 @@ import sidebarConfig from '../sidebar.json'
 export default defineConfig({
   title: "neon10 blog",
   description: "A VitePress Site",
-  base: 'blog',
+  base: '/blog/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
