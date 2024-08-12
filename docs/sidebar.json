@@ -1,0 +1,79 @@
+[
+  {
+    "text": "about",
+    "items": [
+      {
+        "text": "page",
+        "link": "/about/page"
+      }
+    ]
+  },
+  {
+    "text": "api-examples",
+    "link": "api-examples"
+  },
+  {
+    "text": "markdown-examples",
+    "link": "markdown-examples"
+  },
+  {
+    "text": "note",
+    "items": [
+      {
+        "text": "其他",
+        "items": [
+          {
+            "text": "网站搭建",
+            "link": "/note/其他/网站搭建"
+          }
+        ]
+      },
+      {
+        "text": "效率提升",
+        "items": [
+          {
+            "text": "mac",
+            "items": [
+              {
+                "text": "常用快捷键",
+                "link": "/note/效率提升/mac/常用快捷键"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "流媒体技术",
+        "items": [
+          {
+            "text": "入门",
+            "items": [
+              {
+                "text": "1-设备和操作系统",
+                "link": "/note/流媒体技术/入门/1-设备和操作系统"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "移动端开发",
+        "items": [
+          {
+            "text": "性能测试和分析",
+            "link": "/note/移动端开发/性能测试和分析"
+          }
+        ]
+      },
+      {
+        "text": "计算机基础",
+        "items": [
+          {
+            "text": "ELF文件",
+            "link": "/note/计算机基础/ELF文件"
+          }
+        ]
+      }
+    ]
+  }
+]

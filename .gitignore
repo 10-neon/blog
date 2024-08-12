@@ -1,0 +1,4 @@
+node_modules
+.snap
+docs/.vitepress/cache
+docs/.vitepress/dist
